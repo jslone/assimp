@@ -39,6 +39,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef OBJFILEMTLIMPORTER_H_INC
 #define OBJFILEMTLIMPORTER_H_INC
 
+#include <cstdlib>
 #include <vector>
 #include <string>
 

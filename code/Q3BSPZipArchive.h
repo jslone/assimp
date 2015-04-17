@@ -43,6 +43,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "../contrib/unzip/unzip.h"
 #include "../include/assimp/IOStream.hpp"
 #include "../include/assimp/IOSystem.hpp"
+#include <cstdlib>
 #include <string>
 #include <vector>
 #include <map>
